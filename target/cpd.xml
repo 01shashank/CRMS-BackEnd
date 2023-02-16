@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="35" tokens="103">
+      <file line="107"
+            path="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\Bookings.java"/>
+      <file line="89"
+            path="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\Rooms.java"/>
+      <codefragment><![CDATA[	}
+
+	public Date getCreationTs() {
+		return this.creationTs;
+	}
+
+	public void setCreationTs(Date creationTs) {
+		this.creationTs = creationTs;
+	}
+
+	public String getCreatedBy() {
+		return this.createdBy;
+	}
+
+	public void setCreatedBy(String createdBy) {
+		this.createdBy = createdBy;
+	}
+
+	public Date getModifiedTs() {
+		return this.modifiedTs;
+	}
+
+	public void setModifiedTs(Date modifiedTs) {
+		this.modifiedTs = modifiedTs;
+	}
+
+	public String getModifiedBy() {
+		return this.modifiedBy;
+	}
+
+	public void setModifiedBy(String modifiedBy) {
+		this.modifiedBy = modifiedBy;
+	}
+
+	public Boolean isStatusType() {]]></codefragment>
+   </duplication>
+</pmd-cpd>

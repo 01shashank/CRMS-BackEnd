@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\BookingsDao.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\BookingsDaoImpl.java">
+<error line="3" column="8" severity="error" message="Unused import - java.util.Date." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\RoomsDao.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\RoomsDaoImpl.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\RoomTypesDao.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\RoomTypesDaoImpl.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\UserDao.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\UserDaoImpl.java">
+<error line="3" column="8" severity="error" message="Unused import - java.io.Serializable." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\Bookings.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\Rooms.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\RoomTypes.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\User.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\restcontroller\BookingsRestController.java">
+<error line="3" column="8" severity="error" message="Unused import - java.text.SimpleDateFormat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="error" message="Unused import - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="error" message="Unused import - java.util.Calendar." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="error" message="Unused import - java.util.Date." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\restcontroller\RoomsRestController.java">
+<error line="3" column="8" severity="error" message="Unused import - java.text.DateFormat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="error" message="Unused import - java.text.SimpleDateFormat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="error" message="Unused import - java.util.Date." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\restcontroller\RoomTypesRestController.java">
+<error line="3" column="8" severity="error" message="Unused import - java.text.DateFormat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="error" message="Unused import - java.text.ParseException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="error" message="Unused import - java.text.SimpleDateFormat." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="error" message="Unused import - java.util.Date." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\restcontroller\UserRestController.java">
+<error line="3" column="8" severity="error" message="Unused import - java.net.URLDecoder." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="error" message="Unused import - java.util.HashMap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\BookingsService.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\BookingsServiceImpl.java">
+<error line="3" column="8" severity="error" message="Unused import - java.util.Date." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\RoomsService.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\RoomsServiceImpl.java">
+<error line="3" column="8" severity="error" message="Unused import - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="error" message="Unused import - java.util.HashMap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\RoomTypesService.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\RoomTypesServiceImpl.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\UserService.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\UserServiceImpl.java">
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\test\java\com\hex\crms\AppTest.java">
+</file>
+</checkstyle>

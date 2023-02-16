@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.6.1" timestamp="2019-10-08T12:42:34.425">
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\BookingsDaoImpl.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="BookingsDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Date'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="40" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="BookingsDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.HibernateException'
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="30" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="BookingsDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.LockMode'
+</violation>
+<violation beginline="11" endline="11" begincolumn="1" endcolumn="33" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="BookingsDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.LockOptions'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="29" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="BookingsDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.Session'
+</violation>
+<violation beginline="14" endline="14" begincolumn="1" endcolumn="33" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="BookingsDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.Transaction'
+</violation>
+<violation beginline="15" endline="15" begincolumn="1" endcolumn="33" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="BookingsDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.query.Query'
+</violation>
+<violation beginline="27" endline="27" begincolumn="28" endcolumn="41" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.dao" class="BookingsDaoImpl" variable="sessionFactory" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'sessionFactory'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\RoomsDaoImpl.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="40" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="RoomsDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.HibernateException'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="29" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="RoomsDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.Session'
+</violation>
+<violation beginline="20" endline="20" begincolumn="28" endcolumn="41" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.dao" class="RoomsDaoImpl" variable="sessionFactory" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'sessionFactory'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\UserDao.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="UserDao" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.List'
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\dao\UserDaoImpl.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="28" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="UserDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.Serializable'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="UserDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.List'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="40" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="UserDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.HibernateException'
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="29" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.dao" class="UserDaoImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.Session'
+</violation>
+<violation beginline="25" endline="25" begincolumn="28" endcolumn="41" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.dao" class="UserDaoImpl" variable="sessionFactory" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'sessionFactory'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\Bookings.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="28" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="Bookings" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.math.BigDecimal'
+</violation>
+<violation beginline="14" endline="14" begincolumn="1" endcolumn="53" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="Bookings" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.fasterxml.jackson.annotation.JsonProperty'
+</violation>
+<violation beginline="15" endline="15" begincolumn="1" endcolumn="33" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="Bookings" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.hex.crms.dao.RoomsDao'
+</violation>
+<violation beginline="17" endline="17" begincolumn="1" endcolumn="62" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="Bookings" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.beans.factory.annotation.Autowired'
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\RoomTypes.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="28" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="RoomTypes" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.math.BigDecimal'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="37" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="RoomTypes" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.persistence.CascadeType'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="RoomTypes" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.persistence.Column'
+</violation>
+<violation beginline="11" endline="11" begincolumn="1" endcolumn="35" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="RoomTypes" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.persistence.FetchType'
+</violation>
+<violation beginline="15" endline="15" begincolumn="1" endcolumn="36" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="RoomTypes" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.persistence.JoinColumn'
+</violation>
+<violation beginline="16" endline="16" begincolumn="1" endcolumn="34" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="RoomTypes" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.persistence.OneToOne'
+</violation>
+<violation beginline="17" endline="17" begincolumn="1" endcolumn="46" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="RoomTypes" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.persistence.PrimaryKeyJoinColumn'
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\Rooms.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="28" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="Rooms" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.math.BigDecimal'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="Rooms" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.persistence.Column'
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\model\User.java">
+<violation beginline="20" endline="20" begincolumn="1" endcolumn="50" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.model" class="User" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.fasterxml.jackson.annotation.JsonValue'
+</violation>
+<violation beginline="28" endline="30" begincolumn="23" endcolumn="9" rule="UnnecessaryModifier" ruleset="Unnecessary" package="com.hex.crms.model" class="User" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unnecessary.html#UnnecessaryModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\restcontroller\BookingsRestController.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="34" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.text.SimpleDateFormat'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.ArrayList'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="26" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Calendar'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Date'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.UUID'
+</violation>
+<violation beginline="11" endline="11" begincolumn="1" endcolumn="29" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.ws.Response'
+</violation>
+<violation beginline="14" endline="14" begincolumn="1" endcolumn="60" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.web.bind.annotation.PathVariable'
+</violation>
+<violation beginline="16" endline="16" begincolumn="1" endcolumn="61" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.web.bind.annotation.RequestHeader'
+</violation>
+<violation beginline="20" endline="20" begincolumn="1" endcolumn="62" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.web.bind.annotation.ResponseStatus'
+</violation>
+<violation beginline="23" endline="23" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.hex.crms.dao.UserDao'
+</violation>
+<violation beginline="24" endline="24" begincolumn="1" endcolumn="36" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.hex.crms.dao.UserDaoImpl'
+</violation>
+<violation beginline="26" endline="26" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.hex.crms.model.User'
+</violation>
+<violation beginline="27" endline="27" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="BookingsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.hex.crms.model.Rooms'
+</violation>
+<violation beginline="35" endline="35" begincolumn="33" endcolumn="47" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.restcontroller" class="BookingsRestController" variable="BookingsService" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'BookingsService'.
+</violation>
+<violation beginline="37" endline="37" begincolumn="29" endcolumn="39" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.restcontroller" class="BookingsRestController" variable="userService" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'userService'.
+</violation>
+<violation beginline="39" endline="39" begincolumn="30" endcolumn="41" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.restcontroller" class="BookingsRestController" variable="roomsService" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'roomsService'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\restcontroller\RoomTypesRestController.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="28" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomTypesRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.text.DateFormat'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomTypesRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.text.ParseException'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="34" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomTypesRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.text.SimpleDateFormat'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomTypesRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Date'
+</violation>
+<violation beginline="11" endline="11" begincolumn="1" endcolumn="60" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomTypesRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.web.bind.annotation.PathVariable'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="59" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomTypesRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.web.bind.annotation.RequestBody'
+</violation>
+<violation beginline="25" endline="25" begincolumn="34" endcolumn="49" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.restcontroller" class="RoomTypesRestController" variable="RoomTypesService" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'RoomTypesService'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\restcontroller\RoomsRestController.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="28" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.text.DateFormat'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="34" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.text.SimpleDateFormat'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Date'
+</violation>
+<violation beginline="11" endline="11" begincolumn="1" endcolumn="60" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="RoomsRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.web.bind.annotation.PathVariable'
+</violation>
+<violation beginline="26" endline="26" begincolumn="30" endcolumn="41" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.restcontroller" class="RoomsRestController" variable="RoomsService" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'RoomsService'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\restcontroller\UserRestController.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.net.URLDecoder'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="25" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.HashMap'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.List'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="21" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Map'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.UUID'
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="44" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.apache.commons.lang3.StringUtils'
+</violation>
+<violation beginline="11" endline="11" begincolumn="1" endcolumn="36" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jose4j.jwk.RsaJsonWebKey'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="38" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jose4j.jwk.RsaJwkGenerator'
+</violation>
+<violation beginline="13" endline="13" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jose4j.jws.AlgorithmIdentifiers'
+</violation>
+<violation beginline="14" endline="14" begincolumn="1" endcolumn="39" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jose4j.jws.JsonWebSignature'
+</violation>
+<violation beginline="15" endline="15" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jose4j.jwt.JwtClaims'
+</violation>
+<violation beginline="21" endline="21" begincolumn="1" endcolumn="60" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.restcontroller" class="UserRestController" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.web.bind.annotation.PathVariable'
+</violation>
+<violation beginline="34" endline="34" begincolumn="33" endcolumn="35" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.restcontroller" class="UserRestController" variable="log" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'log'.
+</violation>
+<violation beginline="36" endline="36" begincolumn="25" endcolumn="35" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.restcontroller" class="UserRestController" variable="UserService" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'UserService'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\BookingsServiceImpl.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="BookingsServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Date'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="64" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="BookingsServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.transaction.annotation.Transactional'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="BookingsServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.hex.crms.model.Rooms'
+</violation>
+<violation beginline="18" endline="18" begincolumn="29" endcolumn="39" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.service" class="BookingsServiceImpl" variable="BookingsDao" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'BookingsDao'.
+</violation>
+<violation beginline="20" endline="20" begincolumn="30" endcolumn="41" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.service" class="BookingsServiceImpl" variable="roomsService" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'roomsService'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\RoomTypesServiceImpl.java">
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="64" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="RoomTypesServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.transaction.annotation.Transactional'
+</violation>
+<violation beginline="15" endline="15" begincolumn="30" endcolumn="41" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.service" class="RoomTypesServiceImpl" variable="RoomTypesDao" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'RoomTypesDao'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\RoomsServiceImpl.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="RoomsServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.ArrayList'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="25" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="RoomsServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.HashMap'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="21" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="RoomsServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Map'
+</violation>
+<violation beginline="11" endline="11" begincolumn="1" endcolumn="64" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="RoomsServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.transaction.annotation.Transactional'
+</violation>
+<violation beginline="19" endline="19" begincolumn="26" endcolumn="33" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.service" class="RoomsServiceImpl" variable="RoomsDao" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'RoomsDao'.
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\UserService.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="UserService" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.List'
+</violation>
+</file>
+<file name="D:\naveen\naveen_backup\ADM_Workspace\Target-State-Role\CRMS-java-Angular -Boilerplate\crms\src\main\java\com\hex\crms\service\UserServiceImpl.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="22" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="UserServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.List'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="UserServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="64" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="UserServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.hibernate.annotations.common.util.impl.LoggerFactory'
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="64" rule="UnusedImports" ruleset="Import Statements" package="com.hex.crms.service" class="UserServiceImpl" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.springframework.transaction.annotation.Transactional'
+</violation>
+<violation beginline="18" endline="18" begincolumn="25" endcolumn="31" rule="UnusedPrivateField" ruleset="Unused Code" package="com.hex.crms.service" class="UserServiceImpl" variable="UserDao" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'UserDao'.
+</violation>
+</file>
+</pmd>
